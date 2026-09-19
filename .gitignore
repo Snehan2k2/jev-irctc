@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Local scratch output (recordings, screenshots) - not the checked-in demo assets
+/recordings/
+*.webm
